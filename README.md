@@ -11,13 +11,13 @@ Setup
 ------------
 1. Clone this Git Repository
 
-	$ git clone git://github.com/miccheng/WordPress-TDD.git
+        $ git clone git://github.com/miccheng/WordPress-TDD.git
 
 2. Initialize Git submodule for [WordPress-Tests](https://github.com/nb/wordpress-tests).
 
-    $ git submodule init
-	$ git submodule update
-
+		$ git submodule init
+		$ git submodule update
+	
 3. Copy `my-plugin` folder into your current WordPress installation.
 4. Enable the MyPlugin module.
 5. Copy `WordPress-Tests` folder to the same folder level as your WordPress installation.
